@@ -73,4 +73,3 @@ let studentDetails = {
    issleeping : true ,
 }
 console.log(studentDetails, typeof studentDetails);
-
